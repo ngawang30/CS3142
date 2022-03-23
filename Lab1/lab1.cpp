@@ -83,7 +83,9 @@ int main(){
 		countSku(vSku,vYear);
 
 	} else {
+
 		cout << "Unable to open file.";
+
 	}	
 
 	inStream.close();
